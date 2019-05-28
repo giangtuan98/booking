@@ -1,0 +1,1 @@
+<h3>Mã xác nhận của bạn là: {{$data['confirmCodeText']}}</h3>
